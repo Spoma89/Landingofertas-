@@ -1,0 +1,73 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url(imgenes/bk.png);
+}
+img.oferta{
+	width: 220px;
+	height: 200px;
+}
+img.logo{ 
+	width: 120px;
+	height: 120px;
+	border-radius: 70px;
+	padding: 10px;
+
+}
+h2{font-size: 10px;
+	margin-left: 150px;
+
+
+}
+div.container{
+	text-align:  center;
+	margin-left: 250px;
+	padding: 10px;
+}
+div.row{
+	align-items: center;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
+#sec{
+	padding: 5px;
+	margin-top: 3em;
+	margin-left: 3em;
+
+}
+div.col{
+	margin-top: 10px;
+	padding: 3px;
+	margin-left: 10px;
+
+	column-count: 3;
+}
+div.card{
+	margin:10px;
+	margin-right: 15px;
+	border-radius: 5px;
+	justify-content: center;
+}
+p{
+	font-size: 20px;
+	color: REd;
+}
+h6{
+	font-size: 35px;
+	color: #FFFF;
+	background-color: green;
+
+}
+
+iframe{
+	width: 100%;
+   border-radius: 50px;
+
+}
